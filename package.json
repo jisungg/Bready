@@ -1,0 +1,17 @@
+{
+  "name": "bready",
+  "version": "1.0.0",
+  "description": "Introducing **Bready**, your ultimate companion in the world of *sports analytics* and *trading strategies*. Bready is a cutting-edge Discord bot designed to provide users with *real-time* insights and *actionable information* based on recent news about players and the game. Whether you're a seasoned trader or a novice in the sports trading arena, Bready is here to revolutionize your experience.",
+  "main": "./src/index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-hybrid-sharding": "^2.1.4",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  }
+}
